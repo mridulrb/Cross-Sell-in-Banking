@@ -5,12 +5,12 @@ This data set that we are using contain many demographic fields (as relationship
 
 In our use case example , the bank products/plans are : Increase net worth, Philanthropy, Capital Acquisition, Education Planning, Retirement Planing and Estate Planning.</br>
 
-**Our goal is to taget the right customers to the right plans.**</br>
+**Our goal is to target the right customers to the right plans.**</br>
 
 Click [Here](https://dataplatform.cloud.ibm.com/dashboards/43070085-9f20-4cd5-82c7-63308aaadd4f/view/503dd93b10e31f9560b3e6e407cd2a527c337754b4bb8002d28c7b490c667097a93c45c2c8794c5ade150432a5ba46599f
 ) to see a **Demo** of the results.
 
-# Technolgies Used
+# Technologies Used
 - **Watson Studio** (CP4D)</br>
 - **SPSS Modeler**: to build our prediction Model</br>
 - **Cognos Dashboard**: To visualize our prediction output and show the insights</br>
