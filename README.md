@@ -11,6 +11,7 @@ Click [Here](https://dataplatform.cloud.ibm.com/dashboards/43070085-9f20-4cd5-82
 ) to see a **Demo** of the results.
 
 # Technologies Used
+- [**IBM Cloud**](http://ibm.biz/BdfyVd)
 - **Watson Studio** (CP4D)</br>
 - **SPSS Modeler**: to build our prediction Model</br>
 - **Cognos Dashboard**: To visualize our prediction output and show the insights</br>
